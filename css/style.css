@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-azul-principal: #1769aa;
+    --cor-azul-claro: #263746;
+    --cor-branco: #ffffff;
+    --cor-cinza-claro: #e9eef3;
+    --cor-verde: #16a36a;
+
+    --fonte-titulos: "Poppins", sans-serif;
+    --fonte-textos: "Roboto", sans-serif;
+} 
+
